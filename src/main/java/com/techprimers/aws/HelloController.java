@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "remodify on github repo..this change is on github";
+        return "modified on github for code pipeline test";
     }
 }
