@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "new commit for pipeline";
+        return "pipeline test commit ";
     }
 }
